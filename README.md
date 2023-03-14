@@ -15,7 +15,7 @@ Correo: [r.lagos08@ufromail.cl](r.lagos08@ufromail.cl)
 
 _________________________________________________________________________________
 
-Descrpción de los archivos:
+**Descrpción de los archivos:**
 
 [Data](Data): Carpeta con los archivos .nc necesarios. Contiene archivos .rar que se deben descomprimir en su respectivo lugar. Para más detalle de la disposición de los archivos visitar el fichero a continuación.
 
@@ -32,3 +32,9 @@ Descrpción de los archivos:
 [Extra_target_nan.ipynb](Extra_target_nan.ipynb): Expone el problema de los Nan's en el target.
 
 [requirements.txt](requirements.txt): Contiene las dependencias necesarias para ejecutar el repositorio.
+
+**Extras:**
+<code> conda create -n <nombre_env> python=3.10.4 <code>
+<code> pip install -r requirements.txt <code>
+
+
