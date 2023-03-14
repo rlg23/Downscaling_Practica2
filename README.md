@@ -15,7 +15,7 @@ Correo: [r.lagos08@ufromail.cl](r.lagos08@ufromail.cl)
 
 _________________________________________________________________________________
 
-**Descrpción de los archivos:**
+**Descripción de los archivos:**
 
 [Data](Data): Carpeta con los archivos .nc necesarios. Contiene archivos .rar que se deben descomprimir en su respectivo lugar. Para más detalle de la disposición de los archivos visitar el fichero a continuación.
 
