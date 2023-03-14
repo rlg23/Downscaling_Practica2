@@ -35,8 +35,11 @@ ________________________________________________________________________________
 
 **Extras:**
 
-<code>conda create -n <nombre_env> python=3.10.4<code>
-  
-<code>pip install -r requirements.txt<code>
+```
+conda create -n <nombre_env> python=3.10.4
+```  
+```
+pip install -r requirements.txt
+```
 
 
