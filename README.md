@@ -1,4 +1,4 @@
-# Downscaling_Practica2
+# Práctica de Estudios II: Downscaling metereológico.
 
 **Tema:** Adaptación de un sistema de downscaling para datos metereológicos basado en redes neuronales convolucionales (CNN: U-net).
 Descripción: El trabajo incluye leer y escribir grandes volúmenes de datos en formatos científicos (NetCDF) utilizando python, pre-procesar dichos datos para ser ingresados a la red U-net a través de parches y adaptar aspectos internos de ésta misma.
