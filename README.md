@@ -34,7 +34,9 @@ ________________________________________________________________________________
 [requirements.txt](requirements.txt): Contiene las dependencias necesarias para ejecutar el repositorio.
 
 **Extras:**
-<code> conda create -n <nombre_env> python=3.10.4 <code>
-<code> pip install -r requirements.txt <code>
+
+<code>conda create -n <nombre_env> python=3.10.4<code>
+  
+<code>pip install -r requirements.txt<code>
 
 
