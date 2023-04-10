@@ -29,23 +29,23 @@ ________________________________________________________________________________
 
 [C1_parches.rar](C1_parches.rar): *Descrompimir su contenido en el mismo lugar*. Contiene parches pre-procesados. 
 
-[D1_orden_for.ipynb](D1_orden_for.ipynb):
+[D1_orden_for.ipynb](D1_orden_for.ipynb): Contiene el testeo del orden de los ciclos for en la extracción de los parches
 
-[D2_monos.ipynb](D2_monos,ipynb):
+[D2_monos.ipynb](D2_monos,ipynb): Contiene el resumen de los tiempos para las distintas técnicas de optimización empleadas.
 
-[E1_joblib.py](E1_joblib.py)
+[E1_joblib.py](E1_joblib.py): Contiene el proceso de extracción de parches paralelizado con la librería *joblib*
 
-[E2_multiprocessing.py](E2_multiprocessing.py)
+[E2_multiprocessing.py](E2_multiprocessing.py): Contiene el proceso de extracción de parches paralelizado con la librería *multiprocessing*
 
 [Extra_target_nan.ipynb](Extra_target_nan.ipynb): Expone el problema de los Nan's en el target.
 
 [requirements.txt](requirements.txt): Contiene las dependencias necesarias para ejecutar el repositorio.
 
-[registros_tiempos2023-03-21.pkl](registros_tiempos2023-03-21.pkl)
+[registros_tiempos2023-03-21.pkl](registros_tiempos2023-03-21.pkl) Contiene los tiempos de cómputo de las distintas combinaciones de ciclos for
 
-[times_joblib.txt](times_joblib.txt)
+[times_joblib.txt](times_joblib.txt) Contiene los tiempos de cómputo para la extracción de parches paralelizada con el método *joblib*
 
-[times_multiprocessing.txt](times_multiprocessing.txt)
+[times_multiprocessing.txt](times_multiprocessing.txt) Contiene los tiempos de cómputo para la extracción de parches paralelizada con el método *multiprocessing*
 
 **Extras:**
 
