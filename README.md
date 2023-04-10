@@ -29,9 +29,23 @@ ________________________________________________________________________________
 
 [C1_parches.rar](C1_parches.rar): *Descrompimir su contenido en el mismo lugar*. Contiene parches pre-procesados. 
 
+[D1_orden_for.ipynb](D1_orden_for.ipynb):
+
+[D2_monos.ipynb](D2_monos,ipynb):
+
+[E1_joblib.py](E1_joblib.py)
+
+[E2_multiprocessing.py](E2_multiprocessing.py)
+
 [Extra_target_nan.ipynb](Extra_target_nan.ipynb): Expone el problema de los Nan's en el target.
 
 [requirements.txt](requirements.txt): Contiene las dependencias necesarias para ejecutar el repositorio.
+
+[registros_tiempos2023-03-21.pkl](registros_tiempos2023-03-21.pkl)
+
+[times_joblib.txt](times_joblib.txt)
+
+[times_multiprocessing.txt](times_multiprocessing.txt)
 
 **Extras:**
 
