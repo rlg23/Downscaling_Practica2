@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 [D1_orden_for.ipynb](D1_orden_for.ipynb): Contiene el testeo del orden de los ciclos for en la extracción de los parches
 
-[D2_monos.ipynb](D2_monos,ipynb): Contiene el resumen de los tiempos para las distintas técnicas de optimización empleadas.
+[D2_monos.ipynb](D2_monos.ipynb): Contiene el resumen de los tiempos para las distintas técnicas de optimización empleadas.
 
 [E1_joblib.py](E1_joblib.py): Contiene el proceso de extracción de parches paralelizado con la librería *joblib*
 
